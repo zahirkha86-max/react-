@@ -1,0 +1,30 @@
+.hed{
+width: 100vw;
+    height: 100px;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: wheat
+
+}
+
+.input{
+    width: 200px;
+    padding: 8px 10px;
+    margin-top: 26px;
+border-radius: 20px;
+background-color: snow;
+border: 1px solid #00C9B7;
+}
+
+.sbtn{
+    background-color: #00C9B7;
+    color: black;
+    padding: 7px 16px;
+    border-radius: 20px;
+    position: relative;
+    right: 50px;
+}
