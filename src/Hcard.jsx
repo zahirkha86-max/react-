@@ -12,33 +12,12 @@ let Hcards=()=>{
         },
           {
             Imageurl:"./image.png",
-            Description:"i am fellow web developer",
+            Description:"i am fellow web developerzzzzzz",
         }
 
     ];
 
-// let data=[
-// {
-//     Imgurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2aITKEes3IYig_VkU7s5sfK6hwuSroaTfA&s",
 
-//     Discription:"Holiday-Themed Resources"
-// },
-
-// {
-//     Imgurl:"https://daily.jstor.org/wp-content/uploads/2015/07/school_1050x700.jpg",
-//     Discription:"Project-Based Learing"
-// },
-// {
-//     Imgurl:"https://www.thegaudium.com/wp-content/uploads/2016/08/Pooja0002.jpg",
-//     Discription:"Professional Devlopment"
-// },
-
-// {
-//     Imgurl:"https://www.unesco.org/sites/default/files/styles/paragraph_medium_desktop/article/2023-09/school%20girl%20thailand.jpg?itok=QSNKTR12",
-//     Discription:"Straegies For the Classroom"
-// }
-
-// ]
 
 
     return(
